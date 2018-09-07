@@ -66,6 +66,6 @@ public class IndexController {
         cal.setTime(date);
         long timestamp = cal.getTimeInMillis();
         System.out.println(timestamp);
-
     }
+
 }
